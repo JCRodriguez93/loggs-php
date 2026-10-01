@@ -1,0 +1,30 @@
+# Compilacion
+target/
+*.class
+
+# Registro de actividad generado en tiempo de ejecucion
+*.log
+
+# Editores
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backups y temporales
+*~
+*.bak
+*.swp
+*.tmp
+
+# Archivos comprimidos
+*.zip
